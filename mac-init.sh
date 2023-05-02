@@ -31,3 +31,5 @@ brew install kubernetes-cli
 brew install openshift-cli
 brew install kubectx
 
+# install ssh keys docs
+# https://docs.github.com/es/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
